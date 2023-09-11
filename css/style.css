@@ -8,3 +8,23 @@
     height: 80px;
     background-color: rgb(78 160 255);
 }
+
+/* MAIN  */
+.main-title{
+    margin-bottom: 0;
+}
+
+
+.writer {
+    margin-top: 0;
+    color: rgb(128 128 128);;
+}
+
+.color-booleaner{
+    color: rgb(45 174 230);;
+}
+
+.small-text{
+    margin-top: 0;
+    font-size: small;
+}
