@@ -60,3 +60,26 @@ thead{
 .little-cell{
     width: 20%;
 }
+
+/* FOOTER */
+.footer-title{
+    color: grey;
+}
+
+.photo-title{
+    color: white;
+    padding: 1%;
+}
+.graphic-img{
+    background-image: url(../img/graph.jpg);
+    height: 207px;
+    background-repeat: no-repeat;
+    }
+
+.monitor-img{
+    background-image: url(../img/monitor.jpg);
+    height: 207px;
+    background-repeat: no-repeat;   
+    
+}
+
