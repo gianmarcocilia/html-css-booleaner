@@ -1,0 +1,10 @@
+/* HEADER */
+.pattern{
+    background-image: url(../img/pattern.png);
+    background-size: contain;
+}
+
+.container{
+    height: 80px;
+    background-color: rgb(78 160 255);
+}
