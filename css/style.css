@@ -14,7 +14,6 @@
     margin-bottom: 0;
 }
 
-
 .writer {
     margin-top: 0;
     color: rgb(128 128 128);;
@@ -27,4 +26,14 @@
 .small-text{
     margin-top: 0;
     font-size: small;
+}
+
+.color-paragraph{
+    background-color: yellow;
+}
+
+.various-lorem{
+    padding-inline-start: 15px;
+    margin-top: 30px;
+    margin-bottom: 30px;
 }
