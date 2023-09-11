@@ -1,7 +1,11 @@
 /* HEADER */
 .pattern{
     background-image: url(../img/pattern.png);
-    background-size: contain;
+    background-size: 17%;
+}
+.logo{
+    width: 165px;
+    
 }
 
 .container{
